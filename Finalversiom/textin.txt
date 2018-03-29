@@ -1,0 +1,11 @@
+10
+github on go will this
+proving that sentences are reversed
+using dynamic linear data structures
+therefore only allocating the required space in memory
+the task is to reverse all these words
+using recursion
+while also recording the amount of data being manipulated
+This is the moment i fell in love with programming
+more gibberish to fill out lines
+ten lines in total
